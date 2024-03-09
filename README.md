@@ -194,6 +194,7 @@ Resources that I used to make these dotfiles better:
 - [GitHub ❤ ~/](http://dotfiles.github.com/)
 - [Artem Sapegin’s dotfiles](https://github.com/sapegin/dotfiles)
 - [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
+- [Denys Dovhan's dotfiles](https://github.com/denysdovhan/dotfiles)
 
 ## License
 
