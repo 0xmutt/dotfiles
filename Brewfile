@@ -9,6 +9,10 @@ brew "zsh"
 brew "zsh-completions"
 brew "node"
 brew "coreutils"
+brew "moreutils"
+brew "findutils"
+brew "gnu-sed"
+brew "grep"
 brew "nvm"
 brew "tree"
 brew "lsd"
@@ -25,6 +29,15 @@ brew "bat"
 brew "trash-it"
 brew "youtube-dl"
 brew "watchman" # Watching files for Jest
+brew "prettyping"
+brew "htop"
+brew "jq"
+brew "fd"
+brew "diff-so-fancy"
+brew "ncdu"
+brew "neofetch"
+brew "lazygit"
+brew "aria2"
 
 # ------------------------------------------------------------------------------
 # Taps
@@ -36,53 +49,34 @@ tap "homebrew/cask-fonts"
 # ------------------------------------------------------------------------------
 
 # Fonts
-cask "font-fira-code"
-cask "font-fira-code-nerd-font"
-cask "font-hasklug-nerd-font"
+cask "font-iosevka"
+cask "font-hack-nerd-font"
 
 # Utils
-cask "ukrainian-typographic-keyboard"
 cask "gpg-suite"
-cask "openvpn-connect"
 
 # Media
-cask "transmission"
-cask "handbrake"
+#cask "transmission"
 cask "vlc"
-cask "obs"
+cash "obs"
 
 # Development
-cask "fig"
-cask "multipass"
 cask "iterm2"
 cask "visual-studio-code"
-cask "github"
 
 # Desktop applications
 cask "telegram"
 cask "google-chrome"
 cask "firefox"
-cask "brave-browser"
 cask "slack"
-cask "steam"
+#cask "steam"
 cask "spotify"
-cask "notion"
-cask "discord"
-
-# Quick Look plugins
-cask "qlcolorcode" # https://github.com/anthonygelibert/QLColorCode
-cask "qlstephen" # https://github.com/whomwah/qlstephen
-cask "quicklook-json" # https://github.com/sindresorhus/quick-look-plugins
-cask "qlimagesize" # https://github.com/Nyx0uf/qlImageSize
-cask "webpquicklook" # https://github.com/dchest/webp-quicklook
-
+#cask "notion"
+#cask "discord"
+cask "little-snitch"
+cask "micro-snitch"
 # ------------------------------------------------------------------------------
 # App Store applications
 # ------------------------------------------------------------------------------
-mas "Home Assistant", id: 1099568401
-mas "Bitwarden", id: 1352778147
-mas "Spark", id: 1176895641
-mas "Unsplash Wallpapers", id: 12848638472
-mas "NordVPN", id: 905953485
-mas "The Unarchiver",  id: 425424353
-mas "Pandan", id: 1569600264
+mas "Amphetamine", id: 937984704
+
