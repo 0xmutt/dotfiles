@@ -24,9 +24,9 @@ brew "mas"
 brew "gh"
 brew "terminal-notifier"
 brew "wifi-password"
-brew "speedtest"
+brew "speedtest-cli"
 brew "bat"
-brew "trash-it"
+brew "trash"
 brew "youtube-dl"
 brew "watchman" # Watching files for Jest
 brew "prettyping"
@@ -58,7 +58,7 @@ cask "gpg-suite"
 # Media
 #cask "transmission"
 cask "vlc"
-cash "obs"
+cask "obs"
 
 # Development
 cask "iterm2"
