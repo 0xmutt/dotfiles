@@ -71,6 +71,11 @@ if _exists tldr; then
   alias help="tldr"
 fi
 
+# Docker related usefulness
+alias dcd="docker compose down"
+alias dcu="docker compose up"
+alias dl="docker logs"
+
 alias git-root='cd $(git rev-parse --show-toplevel)'
 
 if _exists lsd; then
