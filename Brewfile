@@ -38,6 +38,7 @@ brew "ncdu"
 brew "neofetch"
 brew "lazygit"
 brew "aria2"
+brew "terraform"
 
 # ------------------------------------------------------------------------------
 # Taps
