@@ -92,3 +92,8 @@ if _exists bat; then
   export BAT_THEME='base16'
   alias cat='bat'
 fi
+
+# Mosh instead of ssh
+if _exists mosh; then
+  alias ssh='mosh'
+fi
