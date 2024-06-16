@@ -56,6 +56,10 @@ update
 
 This command will update dotfiles, their dependencies, `brew` or `apt-get` packages, global `npm` dependencies, `gem`s, `apm` plugins.
 
+## Making Changes to Dotfiles
+
+Make changes to your source repo.
+
 ## Under the hood
 
 > **Note:** You may put your custom settings into `~/.zshlocal`.
