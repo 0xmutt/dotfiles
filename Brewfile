@@ -18,7 +18,6 @@ brew "tree"
 brew "lsd"
 brew "fzf"
 brew "wget"
-brew "yarn"
 brew "tldr"
 brew "mas"
 brew "gh"
@@ -28,7 +27,7 @@ brew "speedtest-cli"
 brew "bat"
 brew "trash"
 brew "youtube-dl"
-brew "watchman" # Watching files for Jest
+brew "gallery-dl"
 brew "prettyping"
 brew "htop"
 brew "jq"
@@ -38,7 +37,6 @@ brew "ncdu"
 brew "neofetch"
 brew "lazygit"
 brew "aria2"
-brew "terraform"
 
 # ------------------------------------------------------------------------------
 # Taps
@@ -55,6 +53,7 @@ cask "font-hack-nerd-font"
 
 # Utils
 cask "gpg-suite"
+cask "jordanbaird-ice" #menubar replacement
 
 # Media
 #cask "transmission"
