@@ -54,6 +54,7 @@ cask "font-hack-nerd-font"
 # Utils
 cask "gpg-suite"
 cask "jordanbaird-ice" #menubar replacement
+cask "pearcleaner" #app remover
 
 # Media
 #cask "transmission"
