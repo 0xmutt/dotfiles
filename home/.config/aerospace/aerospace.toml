@@ -57,18 +57,6 @@ if.app-name-regex-substring = 'safari'
 run = 'layout floating'
  
 [[on-window-detected]]
-if.app-name-regex-substring = 'mail'
-run = 'layout floating'
-
-[[on-window-detected]]
-if.app-name-regex-substring = 'slack'
-run = 'layout floating'
-
-[[on-window-detected]]
-if.app-name-regex-substring = 'discord'
-run = 'layout floating'
-
-[[on-window-detected]]
 if.app-name-regex-substring = 'spotify'
 run = 'layout floating'
 
